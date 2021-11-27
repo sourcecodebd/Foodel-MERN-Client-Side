@@ -1,4 +1,4 @@
-# Foodel-MERN-Client-Side
+# Foodel MERN Client Side
 ## Site-Link
 https://foodel-org.web.app/
 
@@ -6,7 +6,7 @@ https://foodel-org.web.app/
 [Nafi Mahmud][author]
 
 [author]: https://sourcecodebd.github.io/nafi.com/
-Hi There! This is a simple Food Delivery related app that I made using React JS, Firebase, NodeJs as server side, Mongodb as database, Context API, Custom Hook, Material UI, React Bootstrap, CSS3. Here are the functionality given below.
+Hi There! This is a simple Food Delivery related app that I made using React JS, Firebase, NodeJs as server side, Mongodb as database, Context API, Custom Hook, Material UI, React Bootstrap, CSS3. Here is the functionality given below.
 
 # About App
 ## • In this site we serve our best food delivery system.
