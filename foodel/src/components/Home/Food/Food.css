@@ -1,0 +1,45 @@
+.food-container{
+    width: 250px;
+    color: white;
+    margin-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.2)2px 4px 8px;
+    padding: 0;
+    border-radius: 15px;
+}
+.food-img{
+    height: 200px;
+    overflow: hidden;
+    border-radius: 15px 15px 0 0;
+}
+.food-container img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+    transition: 0.8s;
+}
+.food-container img:hover{
+    transform: scale(1.2);
+}
+.food-body{
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 0 0 15px 15px;
+}
+.food-title{
+    height: 55px;
+    overflow-x: scroll;
+}
+.food-details{
+    overflow: scroll;
+}
+.food-details::-webkit-scrollbar, .food-title::-webkit-scrollbar{
+    display: none;
+}
+.description{
+    font-size: 12px;
+    margin: 10px;
+    height: 100px
+}

@@ -1,0 +1,33 @@
+.search{
+    padding: 80px 0;
+    min-height: 80vh;
+}
+.search-section{
+    display: flex;
+    justify-content: center;
+}
+.search-bar{
+    border: none;
+    background-color:  limegreen;
+    border-radius: 8px 0 0 8px;
+    outline: none;
+    color: white
+}
+.search-bar::placeholder{
+    color: white
+}
+.search-btn{
+    background-color: limegreen;
+    border: none;
+    outline: none;
+    border-radius: 0 8px 8px 0
+}
+.search-logo{
+    color: white;
+}
+@media only screen and (max-width: 768px){
+    .search-section{
+        transform: scale(0.7);
+        display: flex;
+    }
+}

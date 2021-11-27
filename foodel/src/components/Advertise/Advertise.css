@@ -1,0 +1,6 @@
+.advertise{
+    transition: 0.8s;
+}
+.advertise:hover{
+    transform: scale(1.2);
+}

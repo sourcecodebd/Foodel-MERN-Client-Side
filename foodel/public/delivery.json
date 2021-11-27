@@ -1,0 +1,58 @@
+[
+    {
+        "key": 1,
+        "delivery_worker": "Kate Upton",
+        "rating": 4.3,
+        "total_delivery": 25,
+        "img_url": "https://i.ibb.co/31f0YLX/sexy-delivery-girl-1.jpg"
+    },
+    {
+        "key": 2,
+        "delivery_worker": "Barbara Palvin",
+        "rating": 4.5,
+        "total_delivery": 38,
+        "img_url": "https://i.ibb.co/3vMXWsg/sexy-delivery-girl-2.jpg"
+    },
+    {
+        "key": 3,
+        "delivery_worker": "Hande Erçel",
+        "rating": 4.6,
+        "total_delivery": 16,
+        "img_url": "https://i.ibb.co/8dt9k4n/sexy-delivery-girl-3.jpg"
+    },
+    {
+        "key": 4,
+        "delivery_worker": "Kendal Jenner",
+        "rating": 4.1,
+        "total_delivery": 45,
+        "img_url": "https://i.ibb.co/N6g4SDj/sexy-delivery-girl-4.jpg"
+    },
+    {
+        "key": 5,
+        "delivery_worker": "Olivia",
+        "rating": 4.0,
+        "total_delivery": 23,
+        "img_url": "https://i.ibb.co/F0ptYqR/sexy-delivery-girl-5.jpg"
+    },
+    {
+        "key": 6,
+        "delivery_worker": "Luke Campbell",
+        "rating": 3.6,
+        "total_delivery": 18,
+        "img_url": "https://i.ibb.co/GPL3GbB/cool-delivery-boy-1.jpg"
+    },
+    {
+        "key": 7,
+        "delivery_worker": "David Williams",
+        "rating": 3.8,
+        "total_delivery": 31,
+        "img_url": "https://i.ibb.co/25NBZSp/cool-delivery-boy-2.jpg"
+    },
+    {
+        "key": 8,
+        "delivery_worker": "John Simpson",
+        "rating": 3.9,
+        "total_delivery": 58,
+        "img_url": "https://i.ibb.co/sCxgdFn/cool-delivery-boy-3.jpg"
+    }
+]

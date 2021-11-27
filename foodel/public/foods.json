@@ -1,0 +1,132 @@
+[
+    {
+        "food": "Homemade Fried Boneless Buffalo Chicken Wings",
+        "price": 250,
+        "description": "What a great way to have chicken. Had these boneless wings a while back at a pub and fell in love with the taste. A nice change from your regular chicken wings. Serve with blue cheese dressing for dipping.",
+        "rating": 4.7,
+        "rating_count": 713,
+        "img_url": "https://i.ibb.co/Kss2bjN/Homemade-Fried-Boneless-Buffalo-Chicken-Wings.jpg",
+        "random_color": "red",
+        "tag": "Chicken"
+    },
+    {
+        "food": "Fresh Homemade Pizza Margherita",
+        "price": 170,
+        "description": "Pesto sauce and sausage, come together to make one of my family's favorite foods: pizza! They loved how crispy, melty, and cheesy it was! Feel free to adjust ingredients according to your personal tastes.",
+        "rating": 4.3,
+        "rating_count": 1140,
+        "img_url": "https://i.ibb.co/vjTH6Bw/Fresh-Homemade-Pizza-Margherita.jpg",
+        "random_color": "limegreen",
+        "tag": "Pizza"
+    },
+    {
+        "food": "Fried chicken and waffles breakfast with syrup",
+        "price": 90,
+        "description": "These crispy Cheddar waffles combine with chicken tenders and a spicy blackberry-muddled maple syrup for a sophisticated version of a classic Southern dish that's also gluten free.",
+        "rating": 4.8,
+        "rating_count": 346,
+        "img_url": "https://i.ibb.co/VMyRhr6/Fried-chicken-and-waffles-breakfast-with-syrup.jpg",
+        "random_color": "darkblue",
+        "tag": "Waffles"
+    },
+    {
+        "food": "Kulfi Falooda",
+        "price": 60,
+        "description": "This is a simple but delicious recipe for Kulfi (Bangladeshi Ice Cream). It always gets rave reviews - even the kids love it! For extra flavor, you could add a few drops of rose water or ground pistachios.",
+        "rating": 3.8,
+        "rating_count": 1537,
+        "img_url": "https://i.ibb.co/dfyb6fp/Kulfi-Falooda.jpg",
+        "random_color": "green",
+        "tag": "Falooda"
+    },
+    {
+        "food": "Raw marinated chicken breast on dark background with spices ready to cook",
+        "price": 280,
+        "description": "This chicken is ready to to cooked. It will save your time to cook and tingle your taste buds!! You will want to eat it every night! Hope you love it.",
+        "rating": 3.6,
+        "rating_count": 927,
+        "img_url": "https://i.ibb.co/yPrksPt/Raw-marinated-chicken-breast-on-dark-background-with-spices-ready-to-cook.jpg",
+        "random_color": "rgb(44, 100, 255)",
+        "tag": "Marinated chicken"
+    },
+    {
+        "food": "Spaghetty pasta with meatballs and tomato sauce",
+        "price": 190,
+        "description": "Great as a main course or a snack, these meatballs are crisped in the Philips Airfryer , and then served in tomato sauce. Made in under 20 minutes!",
+        "rating": 4.2,
+        "rating_count": 578,
+        "img_url": "https://i.ibb.co/pJPMvWV/Spaghetty-pasta-with-meatballs-and-tomato-sauce.jpg",
+        "random_color": "red",
+        "tag": "Spaghetty"
+    },
+    {
+        "food": "Turkey Sandwich With Tomato and Lettuce",
+        "price": 80,
+        "description": "A delicious turkey lettuce wrap that's quick, easy, gluten free, and dairy free. Every time I make this recipe, the serving dish is left spinning! A total crowd pleaser.",
+        "rating": 4.9,
+        "rating_count": 293,
+        "img_url": "https://i.ibb.co/26KG3DQ/Turkey-Sandwich-With-Tomato-and-Lettuce.jpg",
+        "random_color": "grey",
+        "tag": "Sandwich"
+    },
+    {
+        "food": "Cheesy Pepperoni Pizza",
+        "price": 130,
+        "description": "This is easy as pie... no pun intended. The smokey flavor from the wood fire puts a great twist on an old favorite and with the help of a pizza stone, doing this over an open fire is easier than you may think.",
+        "rating": 3.8,
+        "rating_count": 1754,
+        "img_url": "https://i.ibb.co/4MQhNcL/Cheesy-Pepperoni-Pizza.jpg",
+        "random_color": "rgb(223, 132, 13)",
+        "tag": "Pizza"
+    },
+    {
+        "food": "Chicken Biryani",
+        "price": 140,
+        "description": "This is a delicious Bangladeshi/Indian/Pakistani rice dish which is often reserved for very special occasions such as weddings, parties, or holidays such as Ramadan. It has a lengthy preparation, but the work is definitely worth it. For biryani, always use long grain rice. Basmati rice with its thin, fine grains is the ideal variety to use. Ghee is butter that has been slowly melted so that the milk solids and golden liquid have been separated and can be used in place of vegetable oil to yield a more authentic taste.",
+        "rating": 4.8,
+        "rating_count": 629,
+        "img_url": "https://i.ibb.co/4sPJ5fX/Chicken-Biryani.jpg",
+        "random_color": "red",
+        "tag": "Chicken biryani"
+    },
+    {
+        "food": "Chicken breast baked with rosemary",
+        "price": 230,
+        "description": "This easy, quick, and light dish has exceptional flavor. The rosemary plays perfectly with strong garlic flavor and a hint of lemon for bright fresh flavor. This is a must try for winter.",
+        "rating": 4.6,
+        "rating_count": 468,
+        "img_url": "https://i.ibb.co/wQGnqYQ/Chicken-breast-baked-with-rosemary.jpg",
+        "random_color": "rgb(173, 3, 173)",
+        "tag": "Baked chicken breast"
+    },
+    {
+        "food": "Chicken Club Sandwich",
+        "price": 280,
+        "description": "This is a to-die-for club sandwich. Don't skip on the veggies. We always eat our sandwiches with a fruit salad. Perfect for a cold winter day!",
+        "rating": 4.3,
+        "rating_count": 935,
+        "img_url": "https://i.ibb.co/pQhr9Fz/Chicken-Club-Sandwich.jpg",
+        "random_color": "red",
+        "tag": "Sandwich"
+    },
+    {
+        "food": "Fajitas de Pollo Chicken marinated Tortillas with Onions and Peppers",
+        "price": 180,
+        "description": "Chicken thighs are used in this recipe, but boneless, skinless breasts could be used instead. Be careful not to overcook, as the result could be rather dry chicken. Serve with warm flour tortillas, salsa and sour cream.",
+        "rating": 3.6,
+        "rating_count": 2781,
+        "img_url": "https://i.ibb.co/bs7G8Gb/Fajitas-de-Pollo-Chicken-marinated-Tortillas-with-Onions-and-Peppers.jpg",
+        "random_color": "limegreen",
+        "tag": "Marinated Chicken"
+    },
+    {
+        "food": "Partially sliced grilled chicken breast with black pepper",
+        "price": 310,
+        "description": "This recipe is for an incredibly easy yet delicious lemon pepper chicken with sauteed chicken, carrots, onions, and a fabulous gravy. Great with garlic mashed potatoes!",
+        "rating": 3.8,
+        "rating_count": 1457,
+        "img_url": "https://i.ibb.co/qY5KFcB/Partially-sliced-grilled-chicken-breast-with-black-pepper.jpg",
+        "random_color": "darkblue",
+        "tag": "Grilled chicken"
+    }
+]
